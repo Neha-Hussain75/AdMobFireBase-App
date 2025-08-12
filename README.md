@@ -9,7 +9,7 @@ Includes Firebase Authentication for login/register and follows Google ad polici
 - 💰 **AdMob Monetization**:
   - 🏁 **Open Ads** – shown after splash screen
   - 📐 **Banner Ads** – at the bottom of every screen
-  - 🎯 **Interstitial Ads** – show after 3rd screen
+  - 🎯 **Interstitial Ads** – shown after 3rd screen
 - ☁ **Firebase Realtime Database** for ad unit IDs
 - 🔐 Firebase Authentication:
   - Sign up with email & password
