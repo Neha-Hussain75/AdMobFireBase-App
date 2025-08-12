@@ -1,6 +1,6 @@
 # 📱 AdMobFireBase-App
-An Android app demonstrating **real-world monetization techniques** using **AdMob** with **Firebase Realtime Database** for ad unit storage.  
-It includes **Open Ads**, **Banner Ads**, and **Interstitial Ads**, following Google Play Store guidelines.  
+Android app with Open, Banner, and Interstitial Ads using AdMob and Firebase Realtime Database.
+Includes Firebase Authentication for login/register and follows Google ad policies with smooth, crash-free ads. 
 
 ---
 
@@ -11,6 +11,10 @@ It includes **Open Ads**, **Banner Ads**, and **Interstitial Ads**, following Go
   - 📐 **Banner Ads** – at the bottom of every screen
   - 🎯 **Interstitial Ads** – show after 3rd screen
 - ☁ **Firebase Realtime Database** for ad unit IDs
+- 🔐 Firebase Authentication:
+  - Sign up with email & password
+  - Log in with email & password
+  - Basic form validation & error handling
 - 🎨 Clean **UI/UX** with smooth ad loading
 - 🛡 Test AdMob IDs for safe development
 - 🚫 Crash-free error management
@@ -47,18 +51,6 @@ It includes **Open Ads**, **Banner Ads**, and **Interstitial Ads**, following Go
    * Press ▶ **Run** in Android Studio
 
 ---
-## 🚀 How to Run the App
-
-1. Clone the repository:
-2. Open in Android Studio
-3. Firebase Setup
-- Create a Firebase Project on Firebase Console
-- Enable Authentication > Email/Password
-- Enable Realtime Database
-- Download the google-services.json file and replace the one in app/ folder
-4. Run the App
-- Build and Run on Android Emulator or Physical Device
-
 ## 📸 Screenshots
 
 | Splash                 | OpenAd                 | Login              |
