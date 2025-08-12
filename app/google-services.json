@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961577801241",
+    "project_id": "admobfirebaseapp-285d9",
+    "storage_bucket": "admobfirebaseapp-285d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961577801241:android:d4ad94721321d043603c88",
+        "android_client_info": {
+          "package_name": "com.example.admobfirebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaGBubq0ArmwaRe8L9FUIcpjLi35fNS3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
